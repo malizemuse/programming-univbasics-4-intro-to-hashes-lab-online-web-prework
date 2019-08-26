@@ -51,5 +51,5 @@ end
 
 # Scrap Code 
 
-puts my_hash_creator(:name, "Lexi")
+#puts my_hash_creator(:name, "Lexi")
 
