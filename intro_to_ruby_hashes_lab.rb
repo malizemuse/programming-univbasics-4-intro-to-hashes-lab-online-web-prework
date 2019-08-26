@@ -48,5 +48,5 @@ end
 
 # Scrap Code 
 
-puts my_hash_creator(:key, "value")
+puts my_hash_creator(:name, "Lexi")
 
