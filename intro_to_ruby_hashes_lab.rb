@@ -48,8 +48,3 @@ def update_counting_hash(hash, key)
 
 end
 
-
-# Scrap Code 
-
-#puts my_hash_creator(:name, "Lexi")
-
